@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	font-size: 1em;
+}
+
+.hero {
+	margin: auto;
+	margin-top: 2em;
+	width: 50%;
+	padding: 10px;
+	background-color: hsl(233, 47%, 7%);
+	color: hsl(0, 0%, 100%);
+}
+
+.heroHeading {
+	font-size: 2em;
+}
+
+.heroPara {
+	font-size: 0.9em;
+}
+
+.inside {
+	color: hsl(277, 64%, 61%);
+}
+
+.SubCat {
+	display: flex;
+	flex-direction: column;
+}
+
+.heroComp,
+.heroTemp,
+.heroQuery {
+	font-size: 1.5em;
+}
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
